@@ -31,9 +31,15 @@ Esta clase forma parte del plan de estudios unificado de **DevToHack Academy**, 
 
 - 📺 **YouTube:** [Canal Oficial de DevToHack Academy](https://www.youtube.com/@DevToHackAcademy)
 - 🔗 **Enlaces Directos:** [Linktree Oficial](https://linktr.ee/devtohackacademy)
-- ⚡ **Donaciones (Binance Pay):** Apoya el mantenimiento de contenido gratuito y la meta de nuestra academia física para la emisión de certificaciones oficiales.
+
+### ⚡ Donaciones (Binance Pay)
+Tu apoyo directo nos permite mantener el contenido 100% gratuito y financiar la creación de nuestra futura academia física para la emisión de certificaciones oficiales:
+
+* 🔗 **Enlace Directo:** [Realizar donación por Binance](https://app.binance.com/uni-qr/HWGEwEcd)
+* 🔹 **Binance Pay ID:** `151013995`
+* 🔹 **Correo de Binance:** `aristides1000@gmail.com`
 
 ---
 
 ### 📄 Licencia
-Este contenido forma parte del material educativo abierto (*Open Source*) de **DevToHack Academy**. Siente libre de hacer `fork`, `clone` o contribuir a la mejora de la documentación. 🚀
+Este contenido forma parte del material educativo abierto (*Open Source*) de **DevToHack Academy**. Siéntete libre de hacer `fork`, `clone` o contribuir a la mejora de la documentación. 🚀
